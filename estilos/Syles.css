@@ -31,14 +31,14 @@ p{
 
 footer#PiePag{
     column-count:2;
-    column-gap: 10px;
-    column-rule: 6px dotted blueviolet;
-    list-style: none;
+    column-gap: 5px;
+    column-rule: 6px line blueviolet;
+    list-style: solid;
 }
 
 li#col{
     background-color: whitesmoke;
     color: black;
-
+    font-size: xx-small;
 }
 
