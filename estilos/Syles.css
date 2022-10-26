@@ -28,4 +28,17 @@ p{
     background-color: papayawhip;
     color: red;
 }
-/*Comentario solo para ver uso de Code Spacesdesde el iPad */
+
+footer#PiePag{
+    column-count:2;
+    column-gap: 10px;
+    column-rule: 6px dotted blueviolet;
+    list-style: none;
+}
+
+li#col{
+    background-color: whitesmoke;
+    color: black;
+
+}
+
