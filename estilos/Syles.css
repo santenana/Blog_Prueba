@@ -1,0 +1,31 @@
+body{
+    text-align: center;
+    font-family: Arial;
+    color: blue;
+}
+
+#Contenedor{
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 3px solid brown;
+    margin: 0 auto;
+}
+
+#cabecera{
+    align-self: center;
+    background-color: yellowgreen;
+    color: orangered;
+    font-family: 'Lucida Sans';
+    font-size: medium;
+    margin: 2px;
+    width: 180px;
+}
+
+p{
+    background-color: papayawhip;
+    color: red;
+}
+/*Comentario solo para ver uso de Code Spacesdesde el iPad */
