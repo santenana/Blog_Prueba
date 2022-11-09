@@ -18,6 +18,3 @@ Este es un blog donde se aplican conocimientos basicos de HTML, CSS y JavaScript
 
 Este Repo no es un proyecto enserio de programación, solo es un repo para probar y estudiar funciones de Git en un proyecto propio de autoaprendizaje sobre herramientas usadas en el desarrollo de Software y programación :3
 
-
-
-
