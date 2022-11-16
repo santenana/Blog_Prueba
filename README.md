@@ -14,7 +14,9 @@ Este es un blog donde se aplican conocimientos basicos de HTML, CSS y JavaScript
 4. Hacer Commits y añadir cambios.
 5. Hacer Pull y Push de los archivos.
 6. A crear un .gitignore para no cargar imagenes a GitHub.
-7. A manejar flujo de trabajo de manera individual y grupal .
+7. A manejar flujo de trabajo de manera individual y grupal.
+
 
 Este Repo no es un proyecto enserio de programación, solo es un repo para probar y estudiar funciones de Git en un proyecto propio de autoaprendizaje sobre herramientas usadas en el desarrollo de Software y programación :3
 
+Creado por Santiago Garcia :3
